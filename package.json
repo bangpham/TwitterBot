@@ -1,0 +1,14 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "third party client application for Twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bang Pham",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
